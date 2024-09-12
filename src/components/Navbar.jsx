@@ -6,7 +6,7 @@ import { IoMenu } from "react-icons/io5";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
 
-  const handleNav = () => {{{
+  const handleNav = () => {
     setNav(!nav);
   };
 
